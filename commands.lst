@@ -10,4 +10,4 @@ pacman -S --needed $(cat pacman.lst)
 # Install aur.lst
 yaourt -S $(cat aur.lst)
 
-# Git repos downloaded and installed manually
+# Git repos can be listed and updated with the myrepos tool
