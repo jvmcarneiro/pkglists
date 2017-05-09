@@ -1,0 +1,17 @@
+# Converts deb packages to arch packages
+debtap
+firefox-nightly //main web browser
+fonts-meta-base //used in fix for font resolution
+google-chrome //used for testing with chromevox
+jmtpfs //access mtp devices
+lib32-ncurses5-compat-libs //fix compatibility with ncurses
+mons //quickly alternate between screens
+myrepos //manage multiple repos at once
+networkmanager-dispatcher-chrony //nm dispatcher for chrony
+package-query //yaourt tool for querying aur
+pulsemixer //ncurses mixer for pulseaudio
+rtlwifi_new-dkms //used in fix for rtl8188ce wifi adapter
+telegram-desktop-bin //telegram desktop
+universal-ctags-git //active ctags implementation
+v86d //x86 emulation daemon
+yaourt //aur helper
