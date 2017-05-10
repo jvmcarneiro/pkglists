@@ -1,3 +1,4 @@
+batify
 debtap
 firefox-nightly
 fonts-meta-base
@@ -7,6 +8,7 @@ laptop-mode-tools
 lib32-ncurses5-compat-libs
 mons
 myrepos
+neofetch
 networkmanager-dispatcher-chrony
 package-query
 pulsemixer
@@ -15,6 +17,7 @@ python-tasklib
 python-tzlocal
 python2-tzlocal
 rtlwifi_new-dkms
+telegram-cli-git
 telegram-desktop-bin
 ttf-courier-prime
 ttf-gelasio-ib
@@ -28,4 +31,6 @@ ttf-quintessential
 ttf-signika
 universal-ctags-git
 v86d
+vimpc-git
+xpub
 yaourt
