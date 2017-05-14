@@ -56,6 +56,7 @@ jdk8-openjdk
 jfsutils
 json-c
 less
+libnotify
 libtool
 licenses
 links
