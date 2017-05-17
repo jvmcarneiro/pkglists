@@ -2,7 +2,6 @@ abs
 acpi
 acpid
 alsa-utils
-arch-install-scripts
 autoconf
 automake
 bash
@@ -25,7 +24,6 @@ dhcpcd
 diffutils
 dkms
 dmenu
-dosfstools
 dunst
 e2fsprogs
 faac
@@ -58,7 +56,6 @@ jdk8-openjdk
 jfsutils
 json-c
 less
-libnotify
 libtool
 licenses
 links
@@ -78,6 +75,7 @@ mpd
 mpv
 nano
 nasm
+ncdu
 ncmpcpp
 netctl
 networkmanager
