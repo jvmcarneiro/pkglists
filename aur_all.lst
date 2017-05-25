@@ -1,4 +1,4 @@
-abs
+alot
 debtap
 firefox-nightly
 fonts-meta-base
@@ -15,6 +15,7 @@ python-pyuv
 python-tasklib
 python-tzlocal
 python2-tzlocal
+python2-urwidtrees
 rtlwifi_new-dkms
 telegram-desktop-bin
 trello-bin

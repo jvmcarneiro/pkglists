@@ -1,3 +1,4 @@
+abs
 acpi
 acpid
 alsa-utils
@@ -83,6 +84,7 @@ netctl
 networkmanager
 networkmanager-dispatcher-ntpd
 nodejs
+notmuch
 npm
 ntfs-3g
 ntp
