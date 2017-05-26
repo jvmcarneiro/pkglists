@@ -112,6 +112,7 @@ python-psutil
 python-pygit2
 python2-pip
 ranger
+rclone
 reflector
 reiserfsprogs
 rsync
