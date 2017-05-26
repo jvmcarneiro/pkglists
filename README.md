@@ -13,14 +13,11 @@ Git repos are listed with `git clone` commands, and can be automated using stuff
 
 
 ### Install pacman lists
-`pacman -S --needed $(cat pacman_all.lst)`
+`cat /home/jcarneiro/pkglists/pacman_all.lst | sudo xargs pacman -S --needed`
 
-`pacman -S --needed $(cat pacman_rice.lst)`
 
 ### Install aur lists
-`yaourt -S $(cat aur_all.lst)`
-
-`yaourt -S $(cat aur_rice.lst)`
+`cat /home/jcarneiro/pkglists/aur_all.lst | xargs yaourt -S --needed`
 
 
 ## Generating
